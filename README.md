@@ -1,5 +1,7 @@
 # E-sbitar
-A Healthcare Web App built with React 18 and Redux for the client, with a Java Spring Boot API and a MongoDB database. It handles user authentication, medicines CRUD and diseases CRUD. This is an academic mini-project I built with my comrade Bahaa.
+A Healthcare Web App built with React 18 and Redux for the client, with a Java Spring Boot API and a MongoDB database.
+
+It handles user authentication, medicines CRUD and diseases CRUD. This is an academic mini-project I built with my comrade Bahaa.
 
 ## Client Folder
 ```
