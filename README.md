@@ -10,7 +10,7 @@ npm / yarn / pnpm install
 npm / yarn / pnpm dev
 ```
 
-## Client Folder
+## Server Folder
 Make sure to have maven and jdk installed.
 Add your db url and db name in src/main/resources/application.properties file.
 ```
